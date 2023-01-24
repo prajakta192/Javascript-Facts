@@ -12,8 +12,8 @@
 Different browser have different engine:
 ```diff
 
-+ V8 => 
-```  Chrome, Opera and Edge.
++ V8
+```  => Chrome, Opera and Edge.
 @@V8@@ => Chrome, Opera and Edge.
 @@SpiderMonkey@@ => Firefox.
 @@Chakra => IE
