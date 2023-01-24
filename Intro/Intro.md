@@ -9,6 +9,9 @@
 **Native to web browser =>** All web browser's have built-in JS engine that executes code on the user's device.
 
 Different browser have different engine:
+<style>H1{color:Blue;}</style>
+<style>H2{color:DarkOrange;}</style>
+<style>p{color:Black;}</style>
 
 @@V8@@ => Chrome, Opera and Edge.
 @@SpiderMonkey@@ => Firefox.
