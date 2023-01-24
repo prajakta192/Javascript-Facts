@@ -6,7 +6,7 @@ To Format a number / date into locale-sensitive(string) value , using locale set
 *number*.toLocaleString(locales, options)
 
 ### Parameters
-<*locales* : optional OR 
+*locales* : optional OR 
       a **'string'** value that represents the locale language and date format you want to use. The language specific format to use => e.g *en-IN, de-CH, fi-FI* etc.
   *option : optional OR
         object of options to customize the returned value    
