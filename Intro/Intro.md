@@ -1,7 +1,8 @@
 #```diff
--  Introduction to JavaScript
--  ```
-
+- Introduction to JavaScript 
++ This is a green colored line
+@@ This is a purple colored line @@
+```
  >*JavaScript* OR JS is a scripting language, invented by ‘Brendan Eich’ in 1995. It was developed for Netscape 2 to make 'web pages dynamic, later it became the ECMA-262 standard in 1997.
 
 **JS client-side scripting language =>** client side scripting language is where action take place on user's computer, rather than on server.
