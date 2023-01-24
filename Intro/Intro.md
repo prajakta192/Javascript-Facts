@@ -10,12 +10,7 @@
 **Native to web browser =>** All web browser's have built-in JS engine that executes code on the user's device.
 
 Different browser have different engine:
-```diff
-
-+ V8
-```  
-=> Chrome, Opera and Edge.
-@@V8@@ => Chrome, Opera and Edge.
-@@SpiderMonkey@@ => Firefox.
-@@Chakra => IE
-@@JavaScriptCore (Nitro) => Safari, etc.
+**V8 => ** *Chrome, Opera and Edge*
+**SpiderMonkey => **  *Firefox*
+**Chakra =>**  *IE*
+**JavaScriptCore (Nitro) =>**  *Safari, etc*
