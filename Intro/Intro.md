@@ -11,7 +11,7 @@
 
 Different browser have different engine: <br>
 
-**V8 =>** *Chrome, Opera and Edge*
-**SpiderMonkey =>**  *Firefox*
-**Chakra =>**  *IE*
-**JavaScriptCore (Nitro) =>**  *Safari, etc*
+**V8 =>** *Chrome, Opera and Edge* <br>
+**SpiderMonkey =>**  *Firefox* <br>
+**Chakra =>**  *IE* <br>
+**JavaScriptCore (Nitro) =>**  *Safari, etc* <br>
