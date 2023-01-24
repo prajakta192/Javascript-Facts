@@ -12,7 +12,7 @@
 Different browser have different engine:
 ```diff
 
-> V8
+1. V8
 ```
 @@V8@@ => Chrome, Opera and Edge.
 @@SpiderMonkey@@ => Firefox.
