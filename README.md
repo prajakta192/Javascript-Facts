@@ -1,2 +1,7 @@
 # Javascript-Facts
-getting to know some well un-known facts about Javascript aka JS
+getting to know some well un-known facts about Javascript aka JS.
+There are so many Facts about JS that we don't know, here we will try to know them.
+
+## Structure
+Every Topic(Fact) or task has its folder along with practicle example/solution, explanation & extra resources.
+we will keep practicle approch
