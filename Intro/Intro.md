@@ -1,4 +1,4 @@
-#```diff
+```diff
 - Introduction to JavaScript 
 + This is a green colored line
 @@ This is a purple colored line @@
