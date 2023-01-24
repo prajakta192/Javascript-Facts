@@ -10,7 +10,7 @@
 
 Different browser have different engine:
 
-@@ V8 => Chrome, Opera and Edge.
-@@ SpiderMonkey => Firefox.
-@@ Chakra => IE
-@@ JavaScriptCore (Nitro) => Safari, etc.
+@@V8 => Chrome, Opera and Edge.
+@@SpiderMonkey => Firefox.
+@@Chakra => IE
+@@JavaScriptCore (Nitro) => Safari, etc.
