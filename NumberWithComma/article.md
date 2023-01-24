@@ -7,7 +7,8 @@ To Format a number / date into locale-sensitive(string) value , using locale set
 
 ### Parameters
 *locales* : optional OR 
-      a **'string'** value that represents the locale language and date format you want to use. The language specific format to use => e.g *en-IN, de-CH, fi-FI* etc.
+      a **'string'** value that represents the locale language and date format you want to use. The language specific format to use => e.g *en-IN, de-CH, fi-FI* etc.<br>
+
   *option : optional OR
         object of options to customize the returned value    
 
