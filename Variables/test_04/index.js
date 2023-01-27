@@ -1,4 +1,4 @@
-// const => ES6(2015) feature => to deaclare constant 
+// const => ES6(2015) feature => to deaclare constant => block scope {}
 
 //const COUNT;      // error => declaration & assignment to const must be on same line
 
