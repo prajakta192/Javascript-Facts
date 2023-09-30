@@ -1,0 +1,25 @@
+// pass by value & pass by reference
+
+/*
+    in javascript primitive values are => pass by Value => uses stack memory
+
+    when we create any variable js will allocate a memory location for that variable & store the value 
+    associate with that var @the allocated location
+ */
+primitive = value
+
+/* non-primitive values => pass by reference => uses heap memory
+    when we create object, insted of storing obj value @ memory location javascript will
+    create reference/address for that obj. then the address will point to the actual obj value.
+ */
+ object = reference
+
+ let obj = {num : 1}; //0x01
+ let obj2 = obj; // will copy the refence 
+ so now obj2 => 0x01
+
+ so if we change either of them will affect the other since they are pointing to 
+ same address in turn same value
+
+
+
